@@ -1,0 +1,12 @@
+# Folders
+/build/
+
+# Trash files
+*.log
+*.tmp
+*.exe
+
+#IDE
+.vscode/
+*.sln
+*.vcxproj*
